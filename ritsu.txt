@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+<3
+
+last modified: Feb 14 00:16:13 UTC 2026
+
+contacts:
+        email (i2p):   useless@mail.i2p
+        email (clear): ritsuhasadeathwish@proton.me / ritsu@firemail.cc
+        session:       05d9fc22bd2cee9e3e9afb7822b1fbd6e55643a45a42c5c673820f8921f0ac2d79
+        simplex:       https://smp18.simplex.im/a#RmYRkFUuzm5fiUgZ731r8NpY-0z56a2RxzgnQoLmEHM
+        keybase:       https://keybase.io/infirmary
+git:
+        github:   https://github.com/ritsulol
+        codeberg: https://codeberg.org/ritsu
+        codefloe: https://codefloe.com/ritsu
+        disroot:  https://git.disroot.org/ritsu
+
+my gpg key can be acquired by appending '.gpg' at the end of any of my git urls
+
+<3
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTFlC2umnttNvFBtCzb8iCxYDnmYwUCaY+/NwAKCRDb8iCxYDnm
+Y7fRAPwImyUKU1UgRV9emKNbt8beWTyByryAEAJceEmJFX5xHgD+PSDNAn8Gyvu5
+NnveFdcXMyEsf18fgNRqjO/f6uFRTgQ=
+=sdYf
+-----END PGP SIGNATURE-----
